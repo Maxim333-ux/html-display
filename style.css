@@ -1,22 +1,70 @@
-.box {
-  border: solid 2px tomato;
-  padding-top: 15px;
-  padding-right: 10px;
-  padding-bottom: 15px;
-  padding-left: 10px;
-  width: 600px;
-  margin-top: 10px;
-  margin-right: 10px;
-  margin-bottom: 10px;
-  margin-left: 10px;
-  border: box;
+.Typography {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
 }
-a {
-  border: solid 1px green;
+.bt {
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 56px;
 }
-li {
-  margin: 10px;
+body {
+  font-family: "Jost";
+  font-style: normal;
+  color: #000;
 }
-p {
-  padding: 5px;
+.mt {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+}
+.h {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+}
+.s {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+}
+.hl {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+}
+.bd {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+}
+.ws {
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 56px;
+}
+.hk {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+}
+.gs {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+}
+.lfm {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+}
+.skd {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+}
+.l {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
 }
